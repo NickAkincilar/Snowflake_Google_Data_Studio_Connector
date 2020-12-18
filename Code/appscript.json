@@ -1,0 +1,17 @@
+{
+
+   "timeZone": "America/New_York",
+   "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8",
+
+    "dataStudio": {
+      "name": "Snowflake Data Connector",
+      "logoUrl": "https://raw.githubusercontent.com/NickAkincilar/DemoContent/master/RetailDemo/images/SFIcon.png",
+      "company": "Snowflake Open Source",
+      "addonUrl": "https://github.com/NickAkincilar/Snowflake_Google_Data_Studio_Connector",
+      "supportUrl": "https://github.com/NickAkincilar/Snowflake_Google_Data_Studio_Connector",
+      "description": "This connector allows retrieving data from Snowflake data platform"
+    }
+  }
